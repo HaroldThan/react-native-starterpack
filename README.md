@@ -1,1 +1,1 @@
-# react-native-starterpack
+# React Native Starterpack
