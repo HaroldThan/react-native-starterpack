@@ -1,1 +1,1 @@
-# react-native-ecsa-isabellahoch
+# React Native Starterpack
